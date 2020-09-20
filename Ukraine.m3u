@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1 group-title="Fashion;Undefined",HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="News",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="Undefined",112 Украина
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1 group-title="News;Undefined",112 Украина
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1 group-title="Undefined",112 Украина
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1 group-title="Undefined",112 Украина HD
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Undefined",112 Украина [FHD]
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Undefined",112 Украина [FHD]
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Undefined",112 Україна
+http://api.tv.ipnet.ua:80/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1 group-title="News",112 Україна
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="News",112 Україна
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="News",112 Україна
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="News",112 Україна
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="News;Undefined",24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 group-title="Undefined",34 канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",4 канал
+http://api.tv.ipnet.ua:80/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="Undefined",4 канал
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1 group-title="Undefined",4 канал
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Undefined",4 канал Украина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="Undefined",4 канал
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Undefined",7 канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",7 канал Одесса
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",7 канал Одесса HD
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
+#EXTINF:-1 group-title="Local",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="Local;Undefined",ATR [576p]
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1 group-title="Travel",BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 group-title="Travel",BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Black Sea TV
+http://live-blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religious",CNL (Европа)
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1 group-title="Undefined",Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:-1 group-title="Undefined",Еко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="Undefined",Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Undefined",GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",ОТБ Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1 group-title="Undefined",HD Fashion & Lifestyle TV
+http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Undefined",HD Fashion & Lifestyle [FHD]
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Fashion",HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Undefined",HTH (Reserve2)
+http://lb1.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1 group-title="Undefined",Громадське HD
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
+#EXTINF:-1 group-title="Undefined",Inter TV
+http://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="Undefined",Iнтер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="Undefined",Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",K1
+http://109.68.40.67:80/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Undefined",K1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1 group-title="Undefined",K1 (Reserve)
+http://edge3.iptv.macc.com.ua/life/k1.m3u8
+#EXTINF:-1 group-title="Undefined",K1 (Reserve2)
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:-1 group-title="Undefined",KRATU
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:-1 group-title="Undefined",UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1 group-title="Undefined",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="Undefined",Leomax 24
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Undefined",MGM HD
+http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8
+#EXTINF:-1 group-title="Undefined",НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 group-title="Undefined",MostVideo TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Undefined",NewsOne
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",NewsOne
+https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Undefined",Nickelodeon HD
+http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+#EXTINF:-1 group-title="Music;Undefined",OTV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Undefined",O-TV
+http://api.tv.ipnet.ua:80/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Undefined",Odessa Fashion
+http://cdn10.live-tv.od.ua:8081/ofod/ofod240p/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Odessa Fashion TV
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Outdoor HD
+http://ott.watch/stream/E7Q3UVKI5H/211.m3u8
+#EXTINF:-1 group-title="Undefined",РАІ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1 group-title="Sport;Undefined",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Undefined",Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="Undefined",Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Simon TV (Харьков)
+http://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Undefined",Skrypin UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 group-title="Undefined",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+#EXTINF:-1 group-title="Undefined",Star Family HD
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+#EXTINF:-1 group-title="Undefined",TBN HD Украина
+http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TV5 (Запорожье) (Reserve)
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TV5 (Запоріжжя)
+http://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/chunklist_w898856001.m3u8
+#EXTINF:-1 group-title="Undefined",TV5 Запорожье
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TV5 Запорожье
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Local",TV7+ (Хмельницький)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 group-title="Local",TV7+ (Хмельницький)
+http://tv7plus.com/hls/tv7.m3u8
+#EXTINF:-1 group-title="Undefined",Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",UATV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1 group-title="Undefined",UA TV (Reserve2)
+http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Undefined",UA ЗАКАРПАТТЯ
+http://api.tv.ipnet.ua:80/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1 group-title="Undefined",UA:Крим
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 group-title="Undefined",UA:Одеса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
+#EXTINF:-1 group-title="Undefined",UA:Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1 group-title="Undefined",UA:Закарпаття
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1 group-title="Undefined",UATV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Undefined",UATV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1 group-title="Undefined",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Viasat History HD
+http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wtybv5g4ygdrxmrxcgnr34vvn82nqy8gmwpvpr5nwcfxk8vnwshhny3nxnfk8n8dcmqf57k9ddxe5gu8d6md5fqqfty463494yyxngkq===.m3u8
+#EXTINF:-1 group-title="Undefined",Viasat Sport HD
+http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8
+#EXTINF:-1 group-title="Undefined",Z (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 group-title="Undefined",А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8

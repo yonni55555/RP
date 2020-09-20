@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,ETV EE
+https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
+#EXTINF:-1,ETV+ EE
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
+#EXTINF:-1,ETV2 EE
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8

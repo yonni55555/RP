@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Canal Amé 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1,Carivision
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
+#EXTINF:-1,Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:-1,Comunion TV
+http://50.30.37.36:1935/live/stream/playlist.m3u8
+#EXTINF:-1,Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:-1,Microvision 10
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1,ONDA TV CANAL 10
+http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+#EXTINF:-1,Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-1,Super TV 55 Santiago
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+#EXTINF:-1,TeleBendicion
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1,Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF:-1,Telefuturo Canal 23
+http://ss8.domint.net:2118/tf_str/futu/master.m3u8
+#EXTINF:-1,Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1,Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:-1,TV Montaña Canal 10
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8

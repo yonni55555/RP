@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,31 канал
+https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1,7 канал (KZ)
+https://sc.id-tv.kz/7_kanal_38_39.m3u8
+#EXTINF:-1,Almaty TV
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
+#EXTINF:-1,Almaty TV
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1,Astana TV
+https://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1,Atameken Business
+https://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1,Atameken Business TV
+https://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1,ID Fashion (KZ)
+https://sc.id-tv.kz/IDFashion.m3u8
+#EXTINF:-1,Ел Арна
+https://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1,КТК
+http://195.49.213.56/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,КТК
+https://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1,Новое ТВ
+https://sc.id-tv.kz/New_Television_38_39.m3u8
+#EXTINF:-1,Новое телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,СТВ Казахстан
+https://sc.id-tv.kz/STV.m3u8
+#EXTINF:-1,Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1,Хабар 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1,Хабар 24
+https://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1,Халык Арна
+https://sc.id-tv.kz/HalykArna.m3u8

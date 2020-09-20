@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1 ,Franca 24
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
+#EXTINF:-1 ,RT-arab
+http://rt-arab.secure.footprint.net/1104_400Kb.m3u8
+#EXTINF:-1 ,DW Arabic
+https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,BBC Ar
+http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
+#EXTINF:-1 ,Alaraby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,Makamelen
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
+#EXTINF:-1 ,Alhora
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:-1 ,Alhora Iraq
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:-1 ,TRTARAPCA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Alfajertv2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1 ,3 Morocco Sports
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 ,AHL AL QURAN TV (1280×720)
+https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8
+#EXTINF:-1 ,AJYAL TV (1920×1080)
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,AL ARABY TV (1920×1080)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 ,AL ARABY TV (1920×1080)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,AL FADY TV (1920×1080)
+http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist.m3u8
+#EXTINF:-1 ,AL FAJER TV 2 (1280×720)
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1 ,AL HAYAT (1280×720)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:-1 ,AL HIWAR (1920×1080)
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 ,AL HORREYA TV (1920×1080)
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 ,AL HURRA (1280×720)
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 ,AL HURRA IRAQ (1280×720)
+http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
+#EXTINF:-1 ,AL KARMA TV (1920×1080)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 ,AL KASS 1 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 ,AL KASS 2 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 ,AL KASS 3 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 ,AL KASS 4 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 ,AL KASS 5 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 ,Al Khalij TV (1280×720)
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 ,AL MAGD TV (1920×1080)
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8
+#EXTINF:-1 ,AL RAFIDAIN (1280×720)
+http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_720p/chunks.m3u8
+#EXTINF:-1 ,AL RAI (1920×1080)
+https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
+#EXTINF:-1 ,AYAAT TV 1280×720)
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1 ,CHANNEL 4 TEEN (1920×1080)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
+#EXTINF:-1 ,CITRUSS TV (1280×720)
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+#EXTINF:-1 ,COPTIC SAT TV (1920×1080)
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 ,DUBAI ONE (1920×1080)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,DUBAI RACING 1 (1920×1080)
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 ,DUBAI RACING 2 (1920×1080)
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 ,DUBAI RACING 3 (1920×1080)
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 ,DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 ,DUBAI SPORTS 2 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 ,DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 ,DUBAI TV (1920×1080)
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,DUBAI ZAMAN (1920×1080)
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
+#EXTINF:-1 ,GULLI BIL ARABIE (1280×720)
+http://95.170.215.118:80/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8
+#EXTINF:-1 ,IMAM HOSSAIN TV 2 (1280×720)
+http://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 ,LIBYA 218 218 (1920×1080)
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,LIBYA 218 NEWS (1920×1080)
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,LOGOS TV (1920×1080)
+http://68.235.60.118:1935/logoschannel.com/logostv.smil/playlist.m3u8
+#EXTINF:-1 ,M24 (1280×720)
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 ,MBC (1280×720)
+http://95.170.215.118:80/hls/m3u8/MBC1-Ali-Mar-AA-Z.m3u8
+#EXTINF:-1 ,MBC 2 (1280×720)
+http://95.170.215.118:80/hls/m3u8/MBC2-QQ-DD-G-C.m3u8
+#EXTINF:-1 ,MBC 4 (1280×720)
+http://95.170.215.118:80/hls/m3u8/MBC4-EE-DD-V-Z.m3u8
+#EXTINF:-1 ,MBC ACTION (1280×720)
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1 ,MBC DRAMA (1280×720)
+http://95.170.215.118:80/hls/m3u8/MBCDRAMA-RR-AA-B.m3u8
+#EXTINF:-1 ,MBC DRAMA PLUS (1280×720)
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
+#EXTINF:-1 ,MBC MAX (1280×720)
+http://95.170.215.118:80/hls/MBC-MAX-TT-DD-N.m3u8
+#EXTINF:-1 ,MBC VAIRETY (1280×720)
+http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
+#EXTINF:-1 ,MEKAMELEEN TV (1920×1080)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
+#EXTINF:-1 ,MTA 3 (1920×1080)
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1 ,PALESTINIAN TV (1920×1080)
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:-1 ,SADA ELBALAD (1280×720)
+http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist.m3u8
+#EXTINF:-1 ,SAHEL TV (1280×720)
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 ,SAMA DUBAI (1920×1080)
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,TRT ARABI (1280×720)
+https://trtcanlitv-lh.akamaihd.net//i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 ,WATAN TV (1920×1080)
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 ,WATAR (1280×720)
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,WESAL TV (1280×720)
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:-1 ,ZAGROS TV (1280×720)
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 ,Alsharqiya
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8
+#EXTINF:-1 ,AlsharqiyaNews
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8
+#EXTINF:-1 ,Iraqia
+http://cdn.catiacast.video/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
+#EXTINF:-1 ,Arrafidaintv
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541
+#EXTINF:-1 ,MBC ACTION
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1 ,Sky-MoviesComedy
+http://95.170.215.118/hls/Sky-MoviesComedy-N.m3u8
+#EXTINF:-1 ,Sky-MoviesComedy
+http://95.170.215.118/hls/m3u8/Sky-MoviesComedy.m3u8
+#EXTINF:-1 ,Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Dubai one
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 ,Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 ,WATAN
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:-1 ,Okrania
+http://91.239.232.114:1935/live/source/chunklist_w1712669127.m3u8
+#EXTINF:-1 ,Jeem
+http://95.170.215.120/hls/m3u8/jeem.m3u8
+#EXTINF:-1 ,group-title=”NEWS-EN” - SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 ,group-title=”NEWS-EN” - DW TV
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
