@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Imedi HD
+https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Maestro
+http://tv.cdn.xsg.ge/maestro/playlist.m3u8
+#EXTINF:-1,Mtavari
+http://tv.cdn.xsg.ge/mtavari/playlist.m3u8
+#EXTINF:-1,Music Box Georgia
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1,Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1,Pirveli
+http://tv.cdn.xsg.ge/pirvelitv/playlist.m3u8
+#EXTINF:-1,PKTV
+http://tv.cdn.xsg.ge/pktv/playlist.m3u8
+#EXTINF:-1,POS TV
+https://tv.cdn.xsg.ge/c4315/PosTV/tracks-v1a1/index.m3u8
+#EXTINF:-1,Rioni
+http://tv.cdn.xsg.ge/rioni/playlist.m3u8
+#EXTINF:-1,Rugby TV
+http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Rustavi 2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:-1,Rustavi 2
+http://md-store4.tulix.tv/rustavi2/index.m3u8
+#EXTINF:-1,Rustavi 2
+http://r2.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:-1,Rustavi 2
+http://tv.cdn.xsg.ge/rustavi2hqnew/tracks-v1a1/index.m3u8
+#EXTINF:-1,Shonitv
+http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV 24
+http://tv.cdn.xsg.ge/tv24/playlist.m3u8
+#EXTINF:-1,TV 25
+http://tv.cdn.xsg.ge/tv25/playlist.m3u8
+#EXTINF:-1,TV MAX
+http://tv.cdn.xsg.ge/tvmax/playlist.m3u8
+#EXTINF:-1,Universe HD Channel
+http://tv.cdn.xsg.ge/universehd/playlist.m3u8

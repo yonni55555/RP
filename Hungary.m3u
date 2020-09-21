@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:-1,Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1,Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1,Erdely TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,Lóverseny közvetítés
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1,Pannon RTV
+http://79.172.194.189/hls/pannonrtv/live.m3u8
+#EXTINF:-1,Pannon RTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
+#EXTINF:-1,Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1,VTV Füzesabony
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
+#EXTINF:-1,Ózdi Városi TV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
