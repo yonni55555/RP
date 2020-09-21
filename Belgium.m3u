@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Bel RTL
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1,BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1,Canal C
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1,Canal C
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/playlist.m3u8
+#EXTINF:-1,Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+#EXTINF:-1,Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+#EXTINF:-1,City Music TV
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1,Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+#EXTINF:-1,Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+#EXTINF:-1,Ketnet Junior
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1,MA Télé
+https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8
+#EXTINF:-1,Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1,NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1,Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+#EXTINF:-1,Radio Contact Vision
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1,Radio PROS
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1,RTL-TVi
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1,TVCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8

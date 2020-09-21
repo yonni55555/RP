@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 group-title="Shop",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
+#EXTINF:-1 group-title="Undefined",98 Live (Belo Horizonte)
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",A & E
+http://randomserver.site:2086/live/crystal/12345/92727.m3u8
+#EXTINF:-1 group-title="Undefined",A & E
+http://randomserver.site:2086/crystal/12345/92727
+#EXTINF:-1 group-title="Undefined",A & E
+http://randomserver.site:2086/live/Bria/Bria/92727.m3u8
+#EXTINF:-1 group-title="Undefined",A&E HD (h265)
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9477.m3u8
+#EXTINF:-1 group-title="Undefined",AMC Full HD (h265)
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9471.m3u8
+#EXTINF:-1 group-title="Undefined",AMC HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9397.m3u8
+#EXTINF:-1 group-title="Undefined",AXN
+http://randomserver.site:2086/live/crystal/12345/92724.m3u8
+#EXTINF:-1 group-title="Undefined",AXN
+http://randomserver.site:2086/live/Bria/Bria/92724.m3u8
+#EXTINF:-1 group-title="Undefined",AXN
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5601.m3u8
+#EXTINF:-1 group-title="Hobby",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Animal Planet Full HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9126.m3u8
+#EXTINF:-1 group-title="Undefined",Animal Planet HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9411.m3u8
+#EXTINF:-1 group-title="Undefined",BAND
+http://randomserver.site:2086/live/crystal/12345/92735.m3u8
+#EXTINF:-1 group-title="Undefined",BAND
+http://randomserver.site:2086/crystal/12345/92735
+#EXTINF:-1 group-title="Undefined",BAND
+http://randomserver.site:2086/live/Bria/Bria/92735.m3u8
+#EXTINF:-1 group-title="Undefined",BAND NEWS
+http://randomserver.site:2086/live/crystal/12345/92723.m3u8
+#EXTINF:-1 group-title="Undefined",BAND NEWS
+http://randomserver.site:2086/crystal/12345/92723
+#EXTINF:-1 group-title="Undefined",BAND NEWS
+http://randomserver.site:2086/live/Bria/Bria/92723.m3u8
+#EXTINF:-1 group-title="Undefined",BOOMERANG
+http://randomserver.site:2086/live/crystal/12345/92720.m3u8
+#EXTINF:-1 group-title="Undefined",BOOMERANG
+http://randomserver.site:2086/crystal/12345/92720
+#EXTINF:-1 group-title="Undefined",Band 4K
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9232.m3u8
+#EXTINF:-1 group-title="Undefined",Band News
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5602.m3u8
+#EXTINF:-1 group-title="Undefined",Boomerang Full HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9166.m3u8
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby&checkedby
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_110
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8&checkedby
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_110
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_123
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_17
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_18
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_20
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_27
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8&checkedby
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_27
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_29
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby&checkedby
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby
+#EXTINF:-1 group-title="Undefined",Brasil IPTV_5
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",DISCOVERY KIDS
+http://randomserver.site:2086/live/crystal/12345/92711.m3u8
+#EXTINF:-1 group-title="Undefined",DISCOVERY KIDS
+http://randomserver.site:2086/crystal/12345/92711
+#EXTINF:-1 group-title="Undefined",DISCOVERY KIDS
+http://randomserver.site:2086/live/Bria/Bria/92711.m3u8
+#EXTINF:-1 group-title="Undefined",DISCOVERY WORLD
+http://randomserver.site:2086/live/Bria/Bria/92707.m3u8
+#EXTINF:-1 group-title="Undefined",GLOBO NEWS
+http://randomserver.site:2086/live/Bria/Bria/92691.m3u8
+#EXTINF:-1 group-title="Undefined",GLOBO NEWS
+http://randomserver.site:2086/live/crystal/12345/92691.m3u8
+#EXTINF:-1 group-title="Undefined",GLOBO NEWS
+http://randomserver.site:2086/crystal/12345/92691
+#EXTINF:-1 group-title="Undefined",INVESTIGACAO DISCOVERY
+http://randomserver.site:2086/live/crystal/12345/92676.m3u8
+#EXTINF:-1 group-title="Undefined",MAX UP
+http://randomserver.site:2086/live/Bria/Bria/92672.m3u8
+#EXTINF:-1 group-title="Undefined",MTV HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9367.m3u8
+#EXTINF:-1 group-title="Undefined",Natgeo Wild HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9428.m3u8
+#EXTINF:-1 group-title="Undefined",Nick Jr HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9369.m3u8
+#EXTINF:-1 group-title="Religious",Novo Tempo (Backup)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+#EXTINF:-1 group-title="Religious",Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:-1 group-title="Undefined",Off
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9309.m3u8
+#EXTINF:-1 group-title="Undefined",Record Full HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9163.m3u8
+#EXTINF:-1 group-title="Undefined",Rede Gospel
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9293.m3u8
+#EXTINF:-1 group-title="Undefined",Rede TV 4K
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9236.m3u8
+#EXTINF:-1 group-title="Undefined",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1 group-title="Undefined",TLC
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9346.m3u8
+#EXTINF:-1 group-title="Undefined",TNT SERIES
+http://randomserver.site:2086/live/crystal/12345/92634.m3u8
+#EXTINF:-1 group-title="General",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
+#EXTINF:-1 group-title="Local",TV Comunitária do Rio de Janeiro
+https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8

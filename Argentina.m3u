@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
+#EXTINF:-1,Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1,BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:-1,Canal 26
+http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1,Canal 26
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1,Canal 26
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1,Canal 26
+https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1,Canal 26
+https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1,Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1,Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
+#EXTINF:-1,CANAL PROVINCIAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1,Chacra TV
+http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
+#EXTINF:-1,Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1,CPEtv
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+#EXTINF:-1,El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1,Frecuencia Musical TV
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:-1,Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1,LA 90 FM
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Music Top
+https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Music Top
+https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1,Music TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1,Telemax
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1,TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1,Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,TLX
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1,TV Maná Córdoba
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1,TV Maná Córdoba
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1,Télam 4
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8

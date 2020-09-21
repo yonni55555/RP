@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,8 канал (Беларусь)
+http://91.215.176.238:8000/8channel
+#EXTINF:-1,8 канал (Витебск)
+http://95.46.208.8:24433/art
+#EXTINF:-1,Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1,Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1,Наше ТВ (Витебск)
+http://95.46.208.8:26259/nashe
+#EXTINF:-1,Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1,Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:-1,Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1,Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+#EXTINF:-1,Радио ХИТ (Орск)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1,СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
