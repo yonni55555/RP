@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,alltv
+http://185.96.70.242:1935/live/alltv/playlist.m3u8
+#EXTINF:-1,Halab Today TV
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:-1,Halab Today TV
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:-1,Noor Al-Sham
+http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
+#EXTINF:-1,Sama TV
+http://95.217.133.45:8080/hls/samatv.m3u8
+#EXTINF:-1,Souryana Radio
+http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
+#EXTINF:-1,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,Suboro TV
+https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
+#EXTINF:-1,Syria Satellite Channel
+http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+#EXTINF:-1,Syrian Education TV
+http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
+#EXTINF:-1,Syrian News Channel
+http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8

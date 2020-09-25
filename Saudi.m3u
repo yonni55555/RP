@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,22 TV
+http://82.212.74.99:8000/live/hls/8117.m3u8
+#EXTINF:-1,Ahl-Alquran TV
+https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
+#EXTINF:-1,AL HOKAIR Group TV
+http://82.212.74.3:8000/live/7513.m3u8
+#EXTINF:-1,Al Khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1,Al Quran Al Kareem (Mecca)
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1,Al Quran Al Kareem (Mecca)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-1,Al Resalah HD
+https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
+#EXTINF:-1,Al Sunnah (Medina)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1,Al Wesal TV
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:-1,Ayaat
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1,Ayaat
+http://m.live.net.sa:1935/live/ayat/chunklist.m3u8
+#EXTINF:-1,Beity
+http://82.212.74.99:8000/live/8164.m3u8
+#EXTINF:-1,EN TV
+http://82.212.74.100:8000/live/8130.m3u8
+#EXTINF:-1,Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1,Iqraa Europe Africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+#EXTINF:-1,Jasco Events TV
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:-1,Kaif TV
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1,Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1,Rotana Cinema HD
+https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
+#EXTINF:-1,Rotana Classic HD
+https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
+#EXTINF:-1,Rotana Comedy HD
+https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
+#EXTINF:-1,Rotana Drama HD
+https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
+#EXTINF:-1,Rotana Khalijia HD
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+#EXTINF:-1,Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-1,Saudi TV 1
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
