@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Hiru TV
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1,Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8

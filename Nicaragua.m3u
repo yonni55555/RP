@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Canal 2
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1,Canal 2
+http://162.244.81.181:1935/live/Stream1/playlist.m3u8
