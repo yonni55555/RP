@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,HTV KG
+http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1,TV1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1,КТРК
+http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,КТРК Ала-Тоо 24
+http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
+#EXTINF:-1,КТРК Баластан
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1,КТРК Музыка
+http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
+#EXTINF:-1,КТРК Спорт
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1,Любимый HD/ТНТ4
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
